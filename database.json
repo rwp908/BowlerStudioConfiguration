@@ -14,8 +14,12 @@
     ]
   },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.18.9",
     "showTerminal": true,
-    "showDevices": false,
+    "skinBranch": "master",
+    "showDevices": true,
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.18.9",
     "showCreatureLab": true
   }
 }
